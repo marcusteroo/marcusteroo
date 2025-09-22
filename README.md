@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Marc 👋</h1>
 </div>
-<img width="6912" height="3456" alt="Marc Ustero" src="https://github.com/user-attachments/assets/85c36366-7a65-4d29-b74e-9410e95fcaf3" />
+<img width="400" alt="Marc Ustero" src="https://github.com/user-attachments/assets/85c36366-7a65-4d29-b74e-9410e95fcaf3?raw=true" />
 
 ## Sobre mi
 
