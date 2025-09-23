@@ -3,12 +3,24 @@
 </div>
 <img width="6912" height="3456" alt="Marc Ustero" src="https://github.com/user-attachments/assets/85c36366-7a65-4d29-b74e-9410e95fcaf3" />
 
-## Sobre mi
+## 🚀 Proyectos Destacados
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+### 🔹 [Kanban con automatizaciones básicas]
+Aplicación web hecha con **Vue + Laravel**.  
+Un tablero Kanban con sistema de bloques para crear automatizaciones (similar a *Power Automate*, pero más sencillo).  
+👉 Ideal para organizar tareas y experimentar con flujos de trabajo personalizados.
+
+---
+
+### 🔹 [Analizador de videos de YouTube]
+Herramienta desarrollada con **Laravel + JavaScript + Python**.  
+Analiza videos de YouTube conectándose con la API de **ChatGPT** para obtener insights automáticos.  
+👉 Permite explorar datos y generar análisis de contenido de forma rápida.
+
+---
+
+### 🔹 [Tienda Online de Hamburguesas]
+Aplicación web desarrollada en **PHP + HTML**.  
+Una tienda online sencilla para productos de comida (ejemplo: hamburguesas 🍔).  
+👉 Incluye catálogo, carrito y flujo de compra básico.
 <br>
