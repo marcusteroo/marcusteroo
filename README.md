@@ -12,14 +12,14 @@ Un tablero Kanban con sistema de bloques para crear automatizaciones (similar a 
 
 ---
 
-### 🔹 [Analizador de videos de YouTube]
+### 🔹 [Analizador de videos de YouTube](https://github.com/marcusteroo/AnalizadorVideosYT)
 Herramienta desarrollada con **Laravel + JavaScript + Python**.  
 Analiza videos de YouTube conectándose con la API de **ChatGPT** para obtener insights automáticos.  
 👉 Permite explorar datos y generar análisis de contenido de forma rápida.
 
 ---
 
-### 🔹 [Tienda Online de Hamburguesas]
+### 🔹 [Tienda Online de Hamburguesas](https://github.com/marcusteroo/BCorsafe)
 Aplicación web desarrollada en **PHP + HTML**.  
 Una tienda online sencilla para productos de comida (ejemplo: hamburguesas 🍔).  
 👉 Incluye catálogo, carrito y flujo de compra básico.
