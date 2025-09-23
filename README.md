@@ -5,7 +5,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🔹 [Kanban con automatizaciones básicas]
+### 🔹 [Kanban con automatizaciones básicas](https://github.com/marcusteroo/Proyecto2)
 Aplicación web hecha con **Vue + Laravel**.  
 Un tablero Kanban con sistema de bloques para crear automatizaciones (similar a *Power Automate*, pero más sencillo).  
 👉 Ideal para organizar tareas y experimentar con flujos de trabajo personalizados.
